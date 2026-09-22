@@ -53,4 +53,5 @@ Override per problem in `notes.md` when needed.
 - Suggested path: [CS Primer timeline](/Users/richardemate/.cursor/projects/Users-richardemate-Projects-learn-csc-program/canvases/cs-primer-timeline.canvas.tsx) — lives in Cursor canvases, not this git tree
 - Course how-to: [csprimer.com/how](https://csprimer.com/how/)
 - Broader map: [teachyourselfcs.com](https://teachyourselfcs.com/)
+- Deep learning (fast.ai → Hugging Face): [learn-deep-learning](../learn-deep-learning)
 - Research threads live in [research-lab](../research-lab), not here
