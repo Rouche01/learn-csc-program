@@ -1,0 +1,34 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+a.out
+*.dSYM/
+*.elf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Rust
+target/
+
+# Node (only if a problem needs it)
+node_modules/
+
+# Captures / bulky fixtures — keep tiny ones in-tree if a problem needs them
+*.pcap
+*.pcapng
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
